@@ -1,0 +1,4 @@
+PAYMENT_STATUS_ID,PAYMENT_STATYS,PAYMENT_STATUS_DESCRIPTION
+1,Pending,payment is pending approval
+2,Completed,payment has been completed successfully
+3,Failed,payment has failed
